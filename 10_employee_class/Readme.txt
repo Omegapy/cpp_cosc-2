@@ -2,14 +2,7 @@
 				         Classes and Objects Review: Employee Class           
 -----------------------------------------------------------------------------------------------------------------------------
 
-This repository is a collection of c++ program assignments from COSC 2030 - Computer Science-2 class at Laramie County Community College.
-Related links:
-https://www.lccc.wy.edu
-https://lccc.wy.edu/pathways/sciTechEngMath/computerScienceProgram/index.aspx
-
------------------------------------------------------------------------------------------------------------------------------
-
-COSC 2030 – Computer Science 1
+COSC 2030 – Computer Science 2
 Professor: David Durbin
 Spring Semester - 2023
 Student: Alejandro (Alex) Ricciardi
