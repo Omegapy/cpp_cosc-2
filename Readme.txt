@@ -3,7 +3,7 @@ Laramie County Community College (LCCC),
 where I am a third-semester STEM, Computer Science Major student,  
 gave me credit for Computer science-2,  
 due to my prior education at the Array School.
-I no longer nned to take the class COSC 2030 – Computer Science 2
+I no longer need to take the class COSC 2030 – Computer Science 2
 
 https://www.lccc.wy.edu  
 http://catalog.lccc.wy.edu/preview_program.php?catoid=1...  
