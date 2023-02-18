@@ -1,5 +1,17 @@
+on 02/16/2023, 
+Laramie County Community College (LCCC),  
+where I am a third-semester STEM, Computer Science Major student,  
+gave me credit for Computer science-2,  
+due to my prior education at the Array School.
+I no longer nned to take the class COSC 2030 â€“ Computer Science 2
+
+https://www.lccc.wy.edu  
+http://catalog.lccc.wy.edu/preview_program.php?catoid=1...  
+https://www.arrayschool.com/  
+
+
 -----------------------------------------------------------------------------------------------------------------------------	
-				              c++ Computer Science – 2
+				              c++ Computer Science â€“ 2
 -----------------------------------------------------------------------------------------------------------------------------
 
 This repository is a collection of c++ program assignments from COSC 2030 - Computer Science-2 class at Laramie County Community College.
@@ -9,7 +21,7 @@ https://lccc.wy.edu/pathways/sciTechEngMath/computerScienceProgram/index.aspx
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-COSC 2030 – Computer Science 2
+COSC 2030 â€“ Computer Science 2
 Professor: David Durbin
 Spring Semester - 2023
 Student: Alejandro (Alex) Ricciardi
@@ -18,8 +30,8 @@ Student: Alejandro (Alex) Ricciardi
 
 Map description:
 The programs are stored in folders named after the corresponding assignment; folders can contain one or more programs. 
-The folder’s names number that precedes the assignment name is a chronologic reference, 
-with the number ‘10’ representing the oldest and first assignment.
+The folderâ€™s names number that precedes the assignment name is a chronologic reference, 
+with the number â€˜10â€™ representing the oldest and first assignment.
 
 -----------------------------------------------------------------------------------------------------------------------------
 
